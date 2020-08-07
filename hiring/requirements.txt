@@ -1,0 +1,6 @@
+opencv-python
+pykitti
+requests
+pyquaternion
+numpy
+boto3
